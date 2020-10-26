@@ -9,7 +9,7 @@
 
 
  
----
+
 
 <a href="https://www.gebert.pl/"><img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /></a>
 
@@ -37,7 +37,7 @@ Do not hecitate to contact me if you have questions!
 
 
 ### Languages and Tools:  
-
+<p align="left>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -49,5 +49,6 @@ Do not hecitate to contact me if you have questions!
 <!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-<br><br> -->
+<br><br> 
+                                                                                           </p>                                                                                         
 </details>
