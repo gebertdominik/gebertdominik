@@ -25,7 +25,13 @@ Do not hecitate to contact me if you have questions
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   <div><img align='right' src="https://github-readme-stats.vercel.app/api?username=gebertdominik&show_icons=true&count_private=true&hide=contribs,issues&hide_border=true"> </div>
 
-<div>
+
+
+
+
+
+
+
 ### Languages and Tools:  
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
@@ -36,10 +42,8 @@ Do not hecitate to contact me if you have questions
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <br><br>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-<br><br>
-</div>
-
+<br><br> -->
 </details>
