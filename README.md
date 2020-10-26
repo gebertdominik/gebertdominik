@@ -5,9 +5,7 @@
  -->
  
 <p align="center">
-<a align="center" href="https://www.gebert.pl/"><img alt="Website"  align="center" src="https://img.shields.io/website?color=black&down_color=black&label=%20%20%20%20%20%20%20&logo=Sourcegraph&logoColor=white&style=flat-square&up_color=black&up_message=Portfolio&url=https%3A%2F%2Fwww.gebert.pl%2F"></a>
-  
-  <a  align="center" href="https://twitter.com/dominikgebert/"><img align="center"  alt="Website" src="https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dominikgebert/"></a> <a href="https://www.linkedin.com/in/dominikgebert/" align="center" ><img align="center"  alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dominikgebert/"></a> <a href="https://github.com/gebertdominik/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=gebertdominik.gebertdominik"></a></p>
+<a align="center" href="https://www.gebert.pl/"><img alt="Website"  align="center" src="https://img.shields.io/website?color=black&down_color=black&label=%20%20%20%20%20%20%20&logo=Sourcegraph&logoColor=white&style=flat-square&up_color=black&up_message=Portfolio&url=https%3A%2F%2Fwww.gebert.pl%2F"></a><a  align="center" href="https://twitter.com/dominikgebert/"><img align="center"  alt="Website" src="https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dominikgebert/"></a> <a href="https://www.linkedin.com/in/dominikgebert/" align="center" ><img align="center"  alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dominikgebert/"></a> <a href="https://github.com/gebertdominik/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=gebertdominik.gebertdominik"></a></p>
 
 
  
