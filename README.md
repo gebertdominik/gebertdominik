@@ -19,7 +19,11 @@
 - 💼 Work in [Solarwinds MSP](https://www.solarwindsmsp.com/)
 - 📫 Contact via <a href = "mailto: dgebert91@gmail.com">Email</a> or my <a href="https://www.linkedin.com/in/dominikgebert/">LinkedIn</a> profile
 
-Do not hecitate to contact me if you have questions
+Do not hecitate to contact me if you have questions!
+
+
+
+
 
 <details align="center">
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
