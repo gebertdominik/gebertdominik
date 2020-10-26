@@ -19,13 +19,8 @@
 - 💼 Work in [Solarwinds MSP](https://www.solarwindsmsp.com/)
 - 📫 Contact via <a href = "mailto: dgebert91@gmail.com">Email</a> or my <a href="https://www.linkedin.com/in/dominikgebert/">LinkedIn</a> profile
 
+Do not hecitate to contact me if you have questions
 
-
-<!-- 
-- If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities,
-you can always contact me at: <br>
-   Email: abdelrahmanbayoumi1@gmail.com <br> 
-   <a href="https://www.linkedin.com/in/abdelrahman-bayoumi/">LinkedIn</a> | Twitter <a href="https://twitter.com/Abdelrahman_B1">@Abdelrahman_B1</a>
 <details align="center">
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   <div>
