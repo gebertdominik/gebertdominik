@@ -16,7 +16,7 @@
 
 - 🇵🇱 Born in Poland
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Live in Scotland 
-- 💼 Work in [Solarwinds MSP](https://www.solarwindsmsp.com/)
+- 💼 Work in [N-able](https://www.n-able.com/)
 - 📫 Contact via <a href = "mailto: dgebert91@gmail.com">Email</a> or my <a href="https://www.linkedin.com/in/dominikgebert/">LinkedIn</a> profile
 
 Do not hecitate to contact me if you have any questions!
